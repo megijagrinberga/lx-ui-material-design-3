@@ -43,7 +43,7 @@ Aptaujā tika izmantota 6 punktu Likerta skala no 1 ("pilnībā nepiekrītu") l�
 
 **Ārsta vizītes pieteikuma skata novērtējums**
 
-`[attēls]`
+<img src="images/results-health.png" alt="Ārsta vizītes pieteikuma skata novērtējums" width="700">
 
 Ārsta vizītes pieteikuma skatā MD3 variants saņēma augstākus vērtējumus visos piecos kritērijos. Izteiktākā atšķirība bija pievilcīguma kritērijā (CDS - 4,25; MD3 - 4,79) un draudzīguma kritērijā (4,30 pret 4,73). Standartnovirze MD3 variantam visos kritērijos bija mazāka, kas liecina par lielāku vienprātību respondentu vidū. Šie rezultāti saskan ar aprakstīto, ka noapaļotas formas un vizuāli draudzīgāks noformējums tiek uztverts kā pieejamāks pakalpojumu orientētā kontekstā.
 
