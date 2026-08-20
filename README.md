@@ -41,9 +41,9 @@ Aptaujā tika izmantota 6 punktu Likerta skala no 1 ("pilnībā nepiekrītu") l�
 
 ## Aptaujas rezultāti
 
-**Ārsta vizītes pieteikuma skata novērtējums**
+**Ārsta vizītes pieteikuma skats**
 
-<img src="images/results-health.png" alt="Ārsta vizītes pieteikuma skata novērtējums" width="700">
+<img src="images/results-health.png" alt="Ārsta vizītes pieteikuma skata novērtējuma rezultātu diagramma" width="600" />
 
 Ārsta vizītes pieteikuma skatā MD3 variants saņēma augstākus vērtējumus visos piecos kritērijos. Izteiktākā atšķirība bija pievilcīguma kritērijā (CDS - 4,25; MD3 - 4,79) un draudzīguma kritērijā (4,30 pret 4,73). Standartnovirze MD3 variantam visos kritērijos bija mazāka, kas liecina par lielāku vienprātību respondentu vidū. Šie rezultāti saskan ar aprakstīto, ka noapaļotas formas un vizuāli draudzīgāks noformējums tiek uztverts kā pieejamāks pakalpojumu orientētā kontekstā.
 
@@ -51,9 +51,9 @@ Brīvā teksta komentāros CDS variants tika vērtēts pretrunīgi - daļa respo
 
 ---
 
-**Bankas sākuma paneļa skata novērtējums**
+**Bankas sākuma paneļa skats**
 
-`[attēls]`
+<img src="images/results-bank.png" alt="Bankas sākuma paneļa skata novērtējuma rezultātu diagramma" width="600" />
 
 Bankas konta pārskata skatā CDS saņēma augstākus vērtējumus visos kritērijos. Izteiktākā atšķirība bija lietišķuma (CDS - 4,38; MD3 - 3,71), pievilcīguma (4,50 pret 3,95) un uzticamības kritērijā (4,57 pret 4,13). Standartnovirze MD3 variantam šajā skatā bija lielāka gandrīz visos kritērijos, kas norāda uz lielāku viedokļu izkliedi. Strukturēts, leņķisks noformējums augstas atbildības vidē var stiprināt uztverto uzticamību un profesionalitāti, kas atbilst aplūkotajiem pētījumiem par formu un uzticamības saistību.
 
@@ -61,9 +61,9 @@ Brīvā teksta komentāros vairāki respondenti norādīja, ka MD3 varianta noap
 
 ---
 
-**Reģistrācijas skata novērtējums**
+**Reģistrācijas skats**
 
-`[attēls]`
+<img src="images/results-registration.png" alt="Reģistrācijas skata novērtējuma rezultātu diagramma" width="600" />
 
 Reģistrācijas skata vērtējumi bija vistuvākie visā aptaujā. Lietojamības ērtuma kritērijā CDS ieguva nedaudz zemāku vērtējumu (CDS - 5,00; MD3 - 5,29), pārējos kritērijos atšķirības bija nelielas. Reģistrācijas skats ir kontekstuāli neitrāls elements, kas parādās gandrīz jebkurā sistēmā neatkarīgi no tās rakstura, kas varētu būt iemesls, kādēļ dizaina sistēmas vizuālā ietekme šeit izrādījās vismazākā.
 
@@ -71,9 +71,9 @@ Brīvā teksta komentāros vairums komentāru attiecās nevis uz vizuālo noform
 
 ---
 
-**Uzņēmuma pasūtījumu saraksta skata novērtējums**
+**Uzņēmuma pasūtījumu saraksta skats**
 
-`[attēls]`
+<img src="images/results-data.png" alt="Uzņēmuma pasūtījumu saraksta skata novērtējuma rezultātu diagramma" width="600" />
 
 Pasūtījumu saraksta skatā CDS vērtējumi visos kritērijos bija augstāki vai līdzvērtīgi MD3 variantam. Izteiktākā atšķirība bija pievilcīguma dimensijā (CDS - 4,52; MD3 - 4,31). Tāpat kā bankas skatā, respondenti CDS uztvēra kā piemērotāku darbam vērstā, strukturētā vidē, kur nepieciešama koncentrēšanās uz informācijas analīzi. Tas saskan ar aprakstīto, ka leņķiskas formas varētu veicināt paaugstinātu uzmanību un koncentrēšanos uz detaļām.
 
@@ -81,9 +81,9 @@ Brīvā teksta komentāros vairāki respondenti norādīja, ka MD3 variants vizu
 
 ---
 
-**E-komercijas produkta skata novērtējums**
+**E-komercijas produkta skats**
 
-`[attēls]`
+<img src="images/results-commerce.png" alt="E-komercijas produkta skata novērtējuma rezultātu diagramma" width="600" />
 
 E-komercijas produkta skata vērtējumi bija jauktāki. MD3 ieguva augstākus vērtējumus uzticamības (4,40 pret 4,29), draudzīguma (4,64 pret 4,40) un pievilcīguma (4,54 pret 4,35) kritērijos, savukārt CDS ieguva augstāku vērtējumu lietišķuma kritērijā (4,76 pret 4,48). Tas liecina, ka izvēlētā dizaina sistēma var tikt apzināti izmantota, lai ietekmētu produkta uztverto tēlu atbilstoši vēlamajam raksturam.
 
@@ -93,7 +93,7 @@ Brīvā teksta komentāros CDS variants vairākkārt tika raksturots kā pārāk
 
 **Visu skatu kopējais novērtējums**
 
-`[attēls]`
+<img src="images/results-overall.png" alt="Visu skatu kopējā novērtējuma rezultātu diagramma" width="600" />
 
 Aplūkojot kopējos vidējos rādītājus visiem skatiem, abas dizaina sistēmas uzrāda ļoti līdzīgus rezultātus. Tas liecina, ka dizaina sistēmas izvēle pati par sevi ne vienmēr kritiski ietekmē lietotāja pieredzi. Neskatoties uz to, konteksts ietekmēja vērtējumu sadalījumu - MD3 tika uztverts kā vizuāli draudzīgāks un pievilcīgāks lietotājam vērstos kontekstos, savukārt CDS tika vērtēts augstāk formālās, riska piesātinātās vidēs. Šie rezultāti ir izmantojami ne tikai dizaina sistēmu izvēlē, bet arī kā instruments produkta uztverto tēlu pielāgošanai konkrētai mērķauditorijai un lietojamības optimizēšanā.
 
@@ -109,7 +109,7 @@ Jāatzīmē, ka visi minētie faktori, kas nav tieši saistīti ar dizaina sist�
 
 ---
 
-## Saturs šajā repo
+## Repo saturs
 
 - `README.md` - darba un aptaujas apraksts
 - `results.csv` - pilnie aptaujas rezultāti
