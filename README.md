@@ -1,4 +1,4 @@
-# CDS vs MD3 lietotāju aptaujas rezultāti
+# CDS un MD3 lietotāju aptaujas rezultāti
 
 Repozitorijs satur lietotāju aptaujas rezultātus no bakalaura darba "Material Design 3 dizaina sistēmas izvērtēšana un integrācija LX/UI komponenšu bibliotēkā", kurā tika salīdzināta LX/UI komponenšu bibliotēkas esošā Carbon Design System (CDS) balstītā tēma ar alternatīvu, uz Material Design 3 (MD3) principiem balstītu tēmu. Zemāk atrodama īsa darba konteksta izklāsts, aptaujas metodika un rezultāti.
 
@@ -109,9 +109,9 @@ Jāatzīmē, ka visi minētie faktori, kas nav tieši saistīti ar dizaina sist�
 
 ---
 
-## Repo saturs
+## Repozitorija saturs
 
 - `README.md` - darba un aptaujas apraksts
 - `results.csv` - pilnie aptaujas rezultāti
-- `images/results/` - aptaujas rezultātu grafiki
+- `images/results/` - aptaujas rezultātu diagrammas
 - `images/views/` - aptaujas skatu attēli
